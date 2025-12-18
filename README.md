@@ -38,6 +38,7 @@
 ## 12 модулей: от базы до шеф-режима
 
 ### 01. ОС кухни — порядок, безопасность, mise en place
+
 - [01.01 Переход от хаоса к контролю](src/01-os-kuhni/01-01-perehod-ot-khaosa-k-kontrolyu.md)  
 - [01.02 Инструменты минимального профи](src/01-os-kuhni/01-02-instrumenty-minimalnogo-profi.md)  
 - [01.03 Mise en place: профессиональная подготовка](src/01-os-kuhni/01-03-mise-en-place-professionalnaya-podgotovka.md)  
@@ -47,16 +48,19 @@
 - [01.07 Мини-экзамен модуля](src/01-os-kuhni/01-07-mini-ekzamen-modulya.md)
 
 ### 02. Язык вкуса — соль, кислота, жир, умами
+
 - [02.01 Вкус как система координат](src/02-yazyk-vkusa/02-01-vkus-kak-sistema-koordinat.md)  
 - [02.02 Соль: громкость вкуса](src/02-yazyk-vkusa/02-02-sol-gromkost-vkusa.md)  
 - [02.03 Кислота: фокус и свежесть](src/02-yazyk-vkusa/02-03-kislota-fokus-i-svezhest.md)  
-- [02.04 Жир: тело и носитель аромата](src/02-yazyk-vkusa/02-04-zhir-telo-i-nositel-aromata.md)  
-- [02.05 Умами: глубина](src/02-yazyk-vkusa/02-05-umami-glubina.md)  
-- [02.06 Аромат и специи](src/02-yazyk-vkusa/02-06-aromat-i-spetsii.md)  
-- [02.07 Практика: три баланса из одной базы](src/02-yazyk-vkusa/02-07-praktika-tri-balansa-iz-odnoy-bazy.md)  
-- [02.08 Мини-экзамен: скорая помощь вкуса](src/02-yazyk-vkusa/02-08-mini-ekzamen-skoraya-pomoshch-vkusa.md)
+- [02.04 Сладость и сахар: баланс и корочка](src/02-yazyk-vkusa/02-04-sladost-i-sakhar-balans-i-korochka.md)  
+- [02.05 Жир: тело и носитель аромата](src/02-yazyk-vkusa/02-05-zhir-telo-i-nositel-aromata.md)  
+- [02.06 Умами: глубина](src/02-yazyk-vkusa/02-06-umami-glubina.md)  
+- [02.07 Аромат и специи](src/02-yazyk-vkusa/02-07-aromat-i-spetsii.md)  
+- [02.08 Практика: три баланса из одной базы](src/02-yazyk-vkusa/02-08-praktika-tri-balansa-iz-odnoy-bazy.md)  
+- [02.09 Мини-экзамен: скорая помощь вкуса](src/02-yazyk-vkusa/02-09-mini-ekzamen-skoraya-pomoshch-vkusa.md)
 
 ### 03. Тепло и текстура — физика готовки
+
 - [03.01 Два мира: сухое и влажное тепло](src/03-teplo-i-tekstura/03-01-dva-mira-sukhoe-i-vlazhnoe-teplo.md)  
 - [03.02 Температура, время, размер](src/03-teplo-i-tekstura/03-02-temperatura-vremya-razmer.md)  
 - [03.03 Майяр и карамелизация](src/03-teplo-i-tekstura/03-03-mayyar-i-karamelizatsiya.md)  
@@ -67,6 +71,7 @@
 - [03.08 Мини-экзамен: поймать текстуру](src/03-teplo-i-tekstura/03-08-mini-ekzamen-poymat-teksturu.md)
 
 ### 04. Нож и подготовка — скорость без суеты
+
 - [04.01 Нож как инструмент контроля](src/04-nozh-i-podgotovka/04-01-nozh-kak-instrument-kontrolya.md)  
 - [04.02 Базовые нарезки и смысл](src/04-nozh-i-podgotovka/04-02-bazovye-narezki-i-smysl.md)  
 - [04.03 Лук и чеснок: правильная работа](src/04-nozh-i-podgotovka/04-03-luk-i-chesnok-pravilnaya-rabota.md)  
@@ -76,6 +81,7 @@
 - [04.07 Мини-экзамен: скорость и аккуратность](src/04-nozh-i-podgotovka/04-07-mini-ekzamen-skorost-i-akkuratnost.md)
 
 ### 05. Бульоны, супы, тушение — извлечение вкуса
+
 - [05.01 Бульон как фундамент](src/05-bulony-supy-tushenie/05-01-bulon-kak-fundament.md)  
 - [05.02 Прозрачность и насыщенность](src/05-bulony-supy-tushenie/05-02-prozrachnost-i-nasyshchennost.md)  
 - [05.03 Овощная база и ароматическая тройка](src/05-bulony-supy-tushenie/05-03-ovoshchnaya-baza-i-aromaticheskaya-troyka.md)  
@@ -86,6 +92,7 @@
 - [05.08 Мини-экзамен: вкус сам по себе](src/05-bulony-supy-tushenie/05-08-mini-ekzamen-vkus-sam-po-sebe.md)
 
 ### 06. Соусы и эмульсии — связывание вкуса и текстуры
+
 - [06.01 Зачем соус нужен](src/06-sousy-i-emulsii/06-01-zachem-sous-nuzhen.md)  
 - [06.02 Эмульсия: что это и почему распадается](src/06-sousy-i-emulsii/06-02-emulsiya-chto-eto-i-pochemu-raspadaetsya.md)  
 - [06.03 Пан-соусы: деглазирование/редукция/монтаж](src/06-sousy-i-emulsii/06-03-pan-sousy-deglazirovanie-reduktsiya-montazh.md)  
@@ -96,6 +103,7 @@
 - [06.08 Мини-экзамен: соус из ничего](src/06-sousy-i-emulsii/06-08-mini-ekzamen-sous-iz-nichego.md)
 
 ### 07. Крахмал и one-pan — паста-ядро
+
 - [07.01 Крахмал как инструмент](src/07-krakhmal-one-pan/07-01-krakhmal-kak-instrument.md)  
 - [07.02 Паста: сухая vs свежая](src/07-krakhmal-one-pan/07-02-pasta-sukhaya-vs-svezhaya.md)  
 - [07.03 One-pan паста: ядро](src/07-krakhmal-one-pan/07-03-one-pan-pasta-yadro.md)  
@@ -106,6 +114,7 @@
 - [07.08 Мини-экзамен: текстура без угадайки](src/07-krakhmal-one-pan/07-08-mini-ekzamen-tekstura-bez-ugadayki.md)
 
 ### 08. Белки и гриль — гриль-ядро
+
 - [08.01 Белки и температура: карта готовности](src/08-belki-i-gril/08-01-belki-i-temperatura-karta-gotovnosti.md)  
 - [08.02 Сухой посол и маринады](src/08-belki-i-gril/08-02-sukhoy-posol-i-marinady.md)  
 - [08.03 Сковорода + духовка: стабильный метод](src/08-belki-i-gril/08-03-skovoroda-plus-dukhovka-stabilnyy-metod.md)  
@@ -117,6 +126,7 @@
 - [08.09 Мини-экзамен: точность белка](src/08-belki-i-gril/08-09-mini-ekzamen-tochnost-belka.md)
 
 ### 09. Овощи, салаты, гарниры — овощи как герой
+
 - [09.01 Овощи и текстура](src/09-ovoshchi-salaty-garniry/09-01-ovoshchi-i-tekstura.md)  
 - [09.02 Салаты как система](src/09-ovoshchi-salaty-garniry/09-02-salaty-kak-sistema.md)  
 - [09.03 Запекание овощей: карамелизация](src/09-ovoshchi-salaty-garniry/09-03-zapekanie-ovoshchey-karamelizatsiya.md)  
@@ -127,6 +137,7 @@
 - [09.08 Мини-экзамен: овощи вкуснее мяса](src/09-ovoshchi-salaty-garniry/09-08-mini-ekzamen-ovoshchi-vkusnee-myasa.md)
 
 ### 10. Тесто — это сила: блины, хачапури, самса
+
 - [10.01 Теория теста: компоненты](src/10-testo-eto-sila/10-01-teoriya-testa-komponenty.md)  
 - [10.02 Глютен и вымешивание](src/10-testo-eto-sila/10-02-glyuten-i-vymeshivanie.md)  
 - [10.03 Отдых и ферментация](src/10-testo-eto-sila/10-03-otdykh-i-fermentatsiya.md)  
@@ -141,6 +152,7 @@
 - [10.12 Мини-экзамен: сет теста](src/10-testo-eto-sila/10-12-mini-ekzamen-set-testa.md)
 
 ### 11. Кухня как производство — меню, тайминг, заготовки
+
 - [11.01 Меню как архитектура](src/11-kukhnya-kak-proizvodstvo/11-01-menyu-kak-arkhitektura.md)  
 - [11.02 Тайминг и параллельность](src/11-kukhnya-kak-proizvodstvo/11-02-tayming-i-parallelnost.md)  
 - [11.03 Заготовки: база профи](src/11-kukhnya-kak-proizvodstvo/11-03-zagotovki-baza-profi.md)  
@@ -151,6 +163,7 @@
 - [11.08 Мини-экзамен: как кухня](src/11-kukhnya-kak-proizvodstvo/11-08-mini-ekzamen-kak-kukhnya.md)
 
 ### 12. Шеф-режим — авторская кухня и повторяемость
+
 - [12.01 Конструктор блюда](src/12-shef-rezhim/12-01-konstruktor-blyuda.md)  
 - [12.02 Техкарта: как пишут профи](src/12-shef-rezhim/12-02-tekhkarta-kak-pishut-profi.md)  
 - [12.03 Инварианты и переменные](src/12-shef-rezhim/12-03-invarianty-i-peremennye.md)  
@@ -164,6 +177,7 @@
 ## Приложения (шпаргалки, чек-листы, “отладчик”)
 
 ### A. Чек-листы
+
 - [A.01 Mise en place](appendices/A-checklists/A-01-mise-en-place-checklist.md)  
 - [A.02 Безопасность](appendices/A-checklists/A-02-bezopasnost-checklist.md)  
 - [A.03 Жарка и тушение](appendices/A-checklists/A-03-zharka-i-tushenie-checklist.md)  
@@ -173,14 +187,17 @@
 - [A.07 Тесто](appendices/A-checklists/A-07-testo-checklist.md)
 
 ### B. Таблицы
+
 - [B.01 Температуры готовности](appendices/B-tables/B-01-temperatury-gotovnosti.md)  
 - [B.02 Матрица маринадов](appendices/B-tables/B-02-marinady-matrix.md)  
 - [B.03 Шпаргалка по тесту](appendices/B-tables/B-03-testo-shpargalka.md)
 
 ### C. Отладчик блюд
+
 - [C.01 Таблица ошибок и спасений](appendices/C-debugger/C-01-otladchik-blyud-tablica-oshibok.md)
 
 ### D. 30-дневный план закрепления
+
 - [D.01 План на 30 дней](appendices/D-30-days/D-01-plan-30-dney-zakrepleniya.md)
 
 ---
@@ -204,5 +221,6 @@
 ---
 
 ## Лицензия
+
 xakepp35;
 Apache 2.0
